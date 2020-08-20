@@ -3,7 +3,7 @@
   </p>
 
   <h2 align="center"> 
-    NextLevelWeek 1.0 🚀 Done!
+    NextLevelWeek 2.0 🚀 Done!
   </h2>
 
 ---
