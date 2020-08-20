@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2a6d07b5-0483-41bd-b47b-251a11d0c01b%2FPattern.png?table=block&id=5f344ed3-fed9-41e8-b5f4-33b62acc8eff&width=2730&cache=v2">
+    <img src="./img/logo.png">
   </p>
 
   <h2 align="center"> 
