@@ -46,8 +46,6 @@ An online and completely free event that will help you take the next step in you
 
 ## 💻 Project
 
-Ecoleta is a project developed based on international environment week. 
-That aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
 
 ## 🔖 Layout
 
@@ -55,7 +53,7 @@ That aims to connect people to companies that collect specific waste such as lig
     <img src="./img/capa.svg">
 </p>
 
-To access the layout use [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
+To access the layout use [Figma]().
 
 ## :rocket: Technologies
 
@@ -77,7 +75,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/RicardoEstudante/next-level-week.git
+$ git clone https://github.com/RicardoEstudante/next-level-week-2.git
 
 # Go into the repository
 $ cd next-level-week/server
