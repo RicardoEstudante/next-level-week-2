@@ -46,12 +46,15 @@ An online and completely free event that will help you take the next step in you
 
 ## 💻 Project
 
+<h2 align="center"> 
+    NextLevelWeek 2.0 🚀 Done!
+  </h2>
 
 ## 🔖 Layout
 
 <p align="center">
-    <img src="./img/capa.svg">
-</p>
+    <img src="./img/design.png">
+ </p>
 
 To access the layout use [Figma](https://www.figma.com/file/a9hAM4EE8lF9iIZUckXUxL/Proffy-Web-(Copy)?node-id=0%3A1).
 
