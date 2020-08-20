@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./img/logo.svg">
+    <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2a6d07b5-0483-41bd-b47b-251a11d0c01b%2FPattern.png?table=block&id=5f344ed3-fed9-41e8-b5f4-33b62acc8eff&width=2730&cache=v2">
   </p>
 
   <h2 align="center"> 
@@ -53,7 +53,7 @@ An online and completely free event that will help you take the next step in you
     <img src="./img/capa.svg">
 </p>
 
-To access the layout use [Figma]().
+To access the layout use [Figma](https://www.figma.com/file/a9hAM4EE8lF9iIZUckXUxL/Proffy-Web-(Copy)?node-id=0%3A1).
 
 ## :rocket: Technologies
 
@@ -83,12 +83,6 @@ $ cd next-level-week/server
 # Install dependencies
 $ yarn install
 
-# Run Migrates
-$ yarn knex:migrate
-
-# Run Seeds
-$ yarn knex:seed
-
 # Start server
 $ yarn dev
 
@@ -99,10 +93,10 @@ $ yarn dev
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/RicardoEstudante/next-level-week.git
+$ git clone https://github.com/RicardoEstudante/next-level-week-2.git
 
 # Go into the repository
-$ cd next-level-week/web
+$ cd next-level-week/front
 
 # Install dependencies
 $ yarn install
