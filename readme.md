@@ -35,17 +35,15 @@ Through our method you will learn new tools, learn about new technologies and di
 An online and completely free event that will help you take the next step in your evolution as a dev.
 
 ### Days
-- Dia 1: Acelerando sua evolução 01/06 - :heavy_check_mark:
-- Dia 2: Olhando para as oportunidades 02/06 - :heavy_check_mark:
-- Dia 3: A escolha da Stack 03/06 - :heavy_check_mark:
-- Dia 4: Até 2 anos em 2 meses 04/06 - :heavy_check_mark:
-- Dia 5: Milha extra 05/06 - :heavy_check_mark:
+- Dia 1: Acelerando sua evolução - :heavy_check_mark:
+- Dia 2: Olhando para as oportunidades - :heavy_check_mark:
+- Dia 3: A escolha da Stack - :heavy_check_mark:
+- Dia 4: Até 2 anos em 2 meses - :heavy_check_mark:
+- Dia 5: Milha extra - :heavy_check_mark:
 
 ## 💻 Project
 
-<h2 align="center"> 
-    NextLevelWeek 2.0 🚀 Done!
-  </h2>
+Proffy is a Web and Mobile application designed to help connect students and teachers. Therefore, this application offers teachers the possibility to register classes, adding information such as the subject, the cost and time and students the possibility to search for registered classes.
 
 ## 🔖 Layout
 
