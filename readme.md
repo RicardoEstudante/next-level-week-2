@@ -11,8 +11,9 @@
 <p align="center">	
   <a href="https://www.linkedin.com/in/ricardo-carvalho-ba865a123/">
     <img alt="Made by Ricardo" src="https://img.shields.io/badge/made%20by-Ricardo-%2304D361">
+    
   </a>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/HigorSnt/proffy?style=flat-square">
+  <img alt="GitHub top language" src="https://img.shields.io/github/followers/RicardoEstudante?label=Follow&style=social">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/HigorSnt/proffy?style=flat-square">
 </p>
 
