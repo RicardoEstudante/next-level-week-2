@@ -56,13 +56,17 @@ To access the layout use [Figma](https://www.figma.com/file/a9hAM4EE8lF9iIZUckXU
 
 ## :rocket: Technologies
 
-This project was developed with the following technologies:
+This project was developed with the following 
 
-- [Node.js][nodejs]
-- [TypeScript][typescript]
-- [React][reactjs]
-- [React Native][rn]
-- [Expo][expo]
+- <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="nodejs" width="15" height="15"/> [Node.js][nodejs]
+-  <img src="https://image.flaticon.com/icons/png/512/919/919832.png" alt="typescript" width="15" height="15"/> [TypeScript][typescript]
+- <img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/20167174151551942641-512.png" alt="react" width="15" height="15"/> [React][reactjs]  
+- <img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/19108918321553750384-512.png" alt="react-native" width="20" height="20"/> [React Native][rn]
+-  <img src="https://image.flaticon.com/icons/svg/2772/2772128.svg" alt="sql" width="15" height="15"/> [Sql][sql]
+- <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" alt="sql" width="15" height="15" /> [Expo][expo]
+
+
+   
 
 ## :information_source: How To Use
 
@@ -140,6 +144,7 @@ After merging your receipt request to done, you can delete a branch from yours.
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
 [expo]: https://expo.io/
+[sql]: https://www.sqlite.org/lang.html
 [reactjs]: https://reactjs.org
 [rn]: https://facebook.github.io/react-native/
 [yarn]: https://yarnpkg.com/
